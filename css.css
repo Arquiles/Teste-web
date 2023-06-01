@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(190, 22, 22);
+  margin: 0;
+  border-radius: 2cm;
+  border-color: black;
+}
+.titulo {
+  margin: 2cm;
+  padding: 2cm;
+  background-color: aqua;
+}
+.parte-1 {
+  margin: 1cm;
+  padding: 1cm;
+  background-color: rgb(162, 105, 214);
+}
+.sub-title {
+  grid-area: auto;
+  background-color: aquamarine;
+  text-align: center;
+}
+.parte-2 {
+  background-color: darkblue;
+}
+.part1 {
+  background-color: aliceblue;
+  border-color: black;
+  border-radius: 1cm;
+}
+.part2 {
+  background-color: coral;
+  border: 2cm yellow radius;
+}
